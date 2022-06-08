@@ -1,0 +1,26 @@
+{
+  "name": "ECHonomy Governance #45",
+  "description": "ECHonomy Governance NFT. This provides the holder to vote on decisions and WL for future utilites and more.",
+  "image": "ipfs://QmV7V2EabBdzWKF32TZ3axgPMsCcdeMJiKn2rrBjCggxjA/45.png",
+  "edition": 45,
+  "date": 1654131330599,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ORANGE"
+    },
+    {
+      "trait_type": "MAIN",
+      "value": "MAIN"
+    },
+    {
+      "trait_type": "Random Middle",
+      "value": "BLANK"
+    },
+    {
+      "trait_type": "TB",
+      "value": "GOLD"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
